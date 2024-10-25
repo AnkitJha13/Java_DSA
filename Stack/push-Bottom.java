@@ -3,7 +3,7 @@ import java.util.*;
 public class StackA {
 
     public static void pushAtBottom(Stack<Integer> s, int data){
-        if(s.empty()){
+        if(s.isEmpty()){
             s.push(data);
             return;
         }
@@ -26,4 +26,3 @@ public class StackA {
        }
     }
 }
-
