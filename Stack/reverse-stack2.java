@@ -29,9 +29,9 @@ public class StackA {
         s.push(2);
         s.push(3);
 
-        System.out.println(s);
+        System.out.println(s + " => before reverse");
         reverseStack(s);
-        System.out.println(s);
+        System.out.println(s + " => after reverse");
     }
 }
 
