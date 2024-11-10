@@ -82,3 +82,7 @@ public class QueueB {
 - 1
 - 2
 - 3
+
+
+- Using LinkedList for queues is advantageous because it provides efficient 𝑂(1) enqueue and dequeue operations, supports dynamic sizing, and simplifies queue management.
+- LinkedList in Java implements both the List and Queue interfaces.
