@@ -24,4 +24,4 @@ public class FindOccurrenceOfWords {
 }
 
 // Output 
-No of occurrences of 'a' is --> 0
+No of occurrences of 'java' is --> 2
